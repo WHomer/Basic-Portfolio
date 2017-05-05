@@ -1,33 +1,6 @@
 ## Week 1 (Recommended) Assignment - That Portfolio Though
 
 
-1. Create a new repository in GitHub called `Basic-Portfolio`.
-
-2. Clone this repository to your computer using the process we went over in class.
-
-3. Navigate to the `Basic-Portfolio` folder that you just cloned onto your machine. Inside this folder, create the following: 
-
-   * 3 HTML documents: `index.html`, `contact.html` and `portfolio.html`.
-   * A folder called `assets`.
-   * Inside the assets directory, make two additional folders: `css` and `images`.
-     * In the `css` folder, make a file called `style.css`.
-     * In the `css` folder, make a file called `reset.css`, and include the code found from the Meyerweb reset located [here](http://meyerweb.com/eric/tools/css/reset/reset.css).
-     * In the `images` folder, save the images you plan on using (like your profile image, the placeholder images for the portfolio, and the social icon images).
-
-4. Push the above changes to GitHub. 
-
-   * Make sure to `git add .` and `git commit -m "initial site files"`. Then type `git push origin master` to push your changes to your GitHub repo.
-
-5. Reference these screenshots for your site:
-
-   ![Portfolio About](Images/Portfolio_About.png)
-
-   ![Portfolio Contact](Images/Portfolio_Contact.png)
-
-   ![Portfolio Gallery](Images/Portfolio_Gallery.png)
-
-   * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below. 
-
 6. When you create a website, it's standard practice to code your HTML files before writing any CSS and to write up one HTML file before moving onto the next. Write your HTML semantically, too: 
 
    * If something is a heading, you use a heading tag. 
@@ -102,15 +75,3 @@
 * Don't forget to look into these concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
 
 * This will be a tough assignment, but 23 weeks from now, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive! You've got this!
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
-
-## Copyright
-
-Coding Boot Camp © 2016. All Rights Reserved.

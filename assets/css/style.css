@@ -1,0 +1,43 @@
+.bg-c-4aaaa5 {
+	background-color: #4aaaa5;
+}
+.ft-c-fff {
+	color: #fff;
+}
+.li-sty-none {
+	list-style: none;
+}
+
+.pd-20 {
+	padding: 20px;
+}
+
+.wd-100 {
+	width: 100%;
+}
+
+.bor-btm-2px {
+	border-bottom: 2px;
+}
+
+.bor-sol {
+	border-style: solid;
+}
+
+.bor-c-ccc {
+	border-color: #ccc;
+}
+
+.mar-lf-15 {
+	margin-left: 15%;
+}
+
+.mar-rg-15 {
+	margin-right: 15%;
+}
+.wd-40px {
+	width: 120px;
+}
+.dis-inlblk {
+	display: inline-block;
+}
