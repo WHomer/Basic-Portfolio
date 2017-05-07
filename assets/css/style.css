@@ -1,4 +1,4 @@
-.bg-c-4aaaa5 {
+/*.bg-c-4aaaa5 {
 	background-color: #4aaaa5;
 }
 .ft-c-fff {
@@ -55,4 +55,157 @@
 
 .clear-flt {
 	clear: both;
+}
+.width-60 {
+	width: 60%;
+}*/
+* {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}
+
+.navbar {
+	width: 100%;
+	border-bottom: 2px solid #cccccc;
+	overflow: hidden;
+}
+
+.navbar-name {
+	background-color: #4aaaa5;
+	color: #fff;
+	font-weight: 800;
+	font-size: 1.5em;
+	float: left;
+	padding: 20px;
+	margin-left: 80px;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+.navbar-nav {
+	float: right;
+	margin-right: 80px;
+}
+.nav-link {
+	display: inline-block;
+	padding: 20px;
+}
+.nav-link a {
+	color: #666666;
+	text-decoration: none;
+}
+
+.container {
+	clear: both;
+	margin: 0 auto;
+	padding: 20px 80px;
+	width: 960px;
+	overflow: hidden;
+	background-image: url("../images/ep_naturalwhite.png");
+}
+.main-content {
+	border: 1px solid #dddddd;
+	float: left;
+	width: 650px;
+	padding: 15px;
+	background-color: #fff;
+	
+}
+.side-panel {
+	border: 1px solid #dddddd;
+	max-width: 270px;
+	float: right;
+	padding: 10px;
+	background-color: #fff;
+}
+.title {
+	color: #4aaaa5;
+	font-size: 1.5em;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-weight: 700;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #cccccc;
+}
+.side-title {
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-weight: 700;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #cccccc;
+}
+
+.portfolio-image {
+	float: left;
+	padding: 10px 10px 10px 0;
+	width: 200px;
+}
+
+.line-height {
+	line-height: 1.5;
+	padding-top: 10px;
+}
+
+.line-height p {
+	padding-bottom: 5px;
+}
+
+.connect-logo a img {
+	width: 50px;
+	height: 50px;
+}
+
+.portfolio-container {
+	float: left;
+	width: 50%;
+	margin: 20px auto;
+	text-align: center;
+}
+.portfolio-container div {
+	width: 250px;
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+}
+.portfolio-label {
+	background-color: #4aaaa5;
+	color: #fff;
+	padding: 10px 0;
+	bottom: 50px;
+}
+.contact-form {
+	width: 100%;
+}
+.contact-form label {
+	width: 100%;
+	display: block;
+	margin: 10px auto;
+}
+.contact-form label input {
+	width: 100%;
+	display: block;
+	margin: 10px auto;
+}
+.contact-form label textarea {
+	width: 100%;
+	display: block;
+	margin: 10px auto;
+}
+.submit {
+	color: #fff;
+	background-color: #4aaaa5;
+	padding: 10px 20px;
+}
+
+.footer {
+	clear: both;
+	width: 100%;
+	text-align: center;
+}
+.tealbar {
+	background-color: #4aaaa5;
+	height: 5px;
+}
+.footer-content {
+	background-color: #666666;
+	color: #cccccc;
+	padding: 20px 0;
+	font-size: .75sem;
 }
